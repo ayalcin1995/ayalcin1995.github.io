@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>course_desc | Ali Yalcin</title>
+    <link>https://example.com/course_desc/</link>
+      <atom:link href="https://example.com/course_desc/index.xml" rel="self" type="application/rss+xml" />
+    <description>course_desc</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>course_desc</title>
+      <link>https://example.com/course_desc/</link>
+    </image>
+    
+    <item>
+      <title>Healthcare Data Mining and Predictive Analytics</title>
+      <link>https://example.com/course_desc/dmpa/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/course_desc/dmpa/</guid>
+      <description>&lt;h3 id=&#34;course-title&#34;&gt;Course Title&lt;/h3&gt;
+&lt;p&gt;HIM 6655 Healthcare Data Mining and Predictive Analytics&lt;/p&gt;
+&lt;h3 id=&#34;instructor&#34;&gt;Instructor&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Name:&lt;/em&gt; Prof. Ali Yalcin&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Phone:&lt;/em&gt; (813) 974 5590 should be used by appointment only.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;E-mail:&lt;/em&gt; &lt;a href=&#34;mailto:ayalcin@usf.edu&#34;&gt;ayalcin@usf.edu&lt;/a&gt; is the preferred form of communication. Please allow 3 business days for the instructor to respond.&lt;/p&gt;
+&lt;h4 id=&#34;office-hours&#34;&gt;Office Hours&lt;/h4&gt;
+&lt;p&gt;Integrated chat tool - by appointment&lt;/p&gt;
+&lt;p&gt;E-mail - anytime.&lt;/p&gt;
+&lt;h3 id=&#34;texbook&#34;&gt;Texbook&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Dean Abbott&lt;/em&gt;. 2014. Applied Predictive Analytics. John  Wiley &amp;amp; Sons, Indianapolis, IN&lt;/p&gt;
+&lt;p&gt;The course textbook is required for this course. Students may be assigned other material from online sources outside of the textbook.&lt;/p&gt;
+&lt;h3 id=&#34;course-overview&#34;&gt;Course Overview&lt;/h3&gt;
+&lt;p&gt;This course is part of the Medical Sciences Master’s concentration in Health Analytics that provides a valuable opportunity for students to gain a deeper understanding of data mining and predictive analytics as applied to modern healthcare research enterprise and delivery. It is intended to give healthcare professionals an introductory understanding of the fields of data mining and predictive analytics. While the basic concepts apply in other business applications, the course mainly uses data sets that emphasize applications in healthcare. The concepts introduced in the course are accompanied by hands-on data analytics exercises using SAS.&lt;/p&gt;
+&lt;p&gt;The course material is presented in a modular format which presents the essential information in an integrated approach. It is divided into eight modules which are structured around the Cross-Industry Standard Process Model for Data Mining (CRISP-DM). CRISP_DM is one of the most widely recognized process of applying data mining techniques to solve business problems.&lt;/p&gt;
+&lt;p&gt;“Healthcare Data Mining and Predictive Analytics” is developed in an online format that will cater to students who are currently employed and cannot accommodate the schedules of the regular didactic courses that are offered during the traditional College of Medicine academic schedule. The inclusion of an online mode of delivery of the course enables geographically-dispersed students or those currently engaged in full-time employment, convenient access to the courses and the program.&lt;/p&gt;
+&lt;h3 id=&#34;course-objectives&#34;&gt;Course Objectives&lt;/h3&gt;
+&lt;p&gt;This course is part of a concentration designed to train professionals to satisfy the growing demand for expertise in healthcare analytics. After completing this course students should be able to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Demonstrate knowledge of data mining and predictive analytics terminology&lt;/li&gt;
+&lt;li&gt;Function as part of teams tackling challenging healthcare analytics problems&lt;/li&gt;
+&lt;li&gt;Understand and apply common descriptive and predictive analytics methods&lt;/li&gt;
+&lt;li&gt;Independently conduct data analytics projects to tackle basic problems&lt;/li&gt;
+&lt;li&gt;Use SAS Studio to handle basic data mining and predictive analytics tasks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;sas-software-use&#34;&gt;SAS Software Use&lt;/h3&gt;
+&lt;p&gt;This course uses SAS Studio and mainly focuses on the Visual Programmer Mode (VPM). VPM is a point and click interface to generate process flows. In &lt;em&gt;Process Flows&lt;/em&gt; you can define data sets, build tasks that are executed in parallel or sequentially and save these process flows for later use and re-use with other data sets with minor modifications. By the end of the course you will learn how to develop and execute a complete data analytics project using Process Flows.&lt;/p&gt;
+&lt;h3 id=&#34;course-prerequisites&#34;&gt;Course Prerequisites&lt;/h3&gt;
+&lt;p&gt;The course is open to all graduate students, those admitted to the Graduate Certificate in Health Informatics and Master’s students in the Health Informatics Health Analytics concentration. Students should have completed HIM 6141 and HIM 6623 with a grade of  B or better before attempting this course.&lt;/p&gt;
+&lt;h3 id=&#34;grading&#34;&gt;Grading&lt;/h3&gt;
+&lt;p&gt;This is a 3 credit hour course.&lt;/p&gt;
+&lt;p&gt;Final course grade will be determined based on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Assignments
+&lt;ul&gt;
+&lt;li&gt;Quizzes   20%&lt;/li&gt;
+&lt;li&gt;Homework  20%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Final Exam    30%&lt;/li&gt;
+&lt;li&gt;Project       30%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;No late submissions will be accepted.&lt;/p&gt;
+&lt;p&gt;Final course letter grades will be based on a percentage performance basis for the course using the following  grading scale: A 90-100, B 80-89, C 70-79, D 60-69, F 0-59.&lt;/p&gt;
+&lt;h3 id=&#34;course-format&#34;&gt;Course Format&lt;/h3&gt;
+&lt;p&gt;This course is web-based. Course materials and assignments will be posted on the course website. The course is made up of 8 modules. Each module includes all or a subset of the following components.&lt;/p&gt;
+&lt;h4 id=&#34;reading-assignments&#34;&gt;Reading Assignments&lt;/h4&gt;
+&lt;p&gt;Each module has a reading assignment from your text-book and in some cases from other online resources. The reading assignments are your first and in some cases most important source of information to achieve the learning objectives of the module.&lt;/p&gt;
+&lt;h4 id=&#34;learning-objectives&#34;&gt;Learning Objectives&lt;/h4&gt;
+&lt;p&gt;Learning objectives are a concise description of the knowledge you should master after completing the assignments and exercises in the module.&lt;/p&gt;
+&lt;h4 id=&#34;textbook-chapter-summaries&#34;&gt;Textbook Chapter Summaries&lt;/h4&gt;
+&lt;p&gt;Each course module includes a summary of the assigned reading form your textbook. Reading the summary is NOT a substitute for completing the reading assignment. The summaries are intended to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;highlight the topics in these chapters that relate to the scope of the course&lt;/li&gt;
+&lt;li&gt;provide quick online access to important concepts in your textbook&lt;/li&gt;
+&lt;li&gt;facilitate quick review of your knowledge and understanding of the material in the chapter&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;sas-how-to-videos&#34;&gt;SAS How-to Videos&lt;/h4&gt;
+&lt;p&gt;These short video&amp;rsquo;s from SAS are an excellent source to learn and reference how basic data analytics tasks are performed in SAS.&lt;/p&gt;
+&lt;h4 id=&#34;self-guided-exercises-sg-exercises&#34;&gt;Self-Guided Exercises (SG Exercises)&lt;/h4&gt;
+&lt;p&gt;These exercises demonstrate the application of the concepts covered in the module using SAS. These exercises are provided in video or written format as appropriate.&lt;/p&gt;
+&lt;h4 id=&#34;graded-exercises-gr-exercises&#34;&gt;Graded Exercises (GR Exercises)&lt;/h4&gt;
+&lt;p&gt;These exercises evaluate your knowledge and understanding of the material in the module. The format of the exercises range from multiple choice quizzes, to short essays and homework assignments that require the use of SAS to complete a variety of analytics tasks.&lt;/p&gt;
+&lt;h3 id=&#34;sas-approved-certificate-in-healthcare-analytics&#34;&gt;SAS Approved Certificate in Healthcare Analytics&lt;/h3&gt;
+&lt;p&gt;HIM 6655 Healthcare Data Mining and Predictive Analytics requires use of SAS. SAS (Statistical Analysis System) is a software suite developed by SAS Institute for advanced analytics, multivariate analyses, business intelligence, data management, and predictive analytics. It is considered the market leader in commercial analytics. Students who successfully complete the SAS designated courses will receive a SAS Approved certificate in Healthcare Analytics. Students must apply for the certificate.&lt;/p&gt;
+&lt;h3 id=&#34;who-to-contact-and-how&#34;&gt;Who to Contact and How&lt;/h3&gt;
+&lt;p&gt;For course content related questions - contact the instructor directly via email.&lt;/p&gt;
+&lt;p&gt;For Canvas related technological support, please contact the IT Help Desk at (813) 974-1222 or &lt;a href=&#34;mailto:help@usf.edu&#34;&gt;help@usf.edu&lt;/a&gt;. To resolve your issue quicker, please include the following information:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Course ID if the problem occurred within a course, example:ABC1234.001F13.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What you were trying to do when the problem occurred.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The exact wording of any error you received.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;standards-and-policies&#34;&gt;Standards and Policies&lt;/h3&gt;
+&lt;p&gt;Please ensure that you are familiar with all USF Graduate Student policies  &lt;a href=&#34;http://www.grad.usf.edu/policies_sect7_full.php#standards&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; including student responsibilities, conduct, academic integrity, grading and more.&lt;/p&gt;
+&lt;h4 id=&#34;online-exam-proctoring-with-proctorio&#34;&gt;Online Exam Proctoring with Proctorio&lt;/h4&gt;
+&lt;p&gt;All students must review the syllabus and the requirements including the online terms and video testing requirements to determine if they wish to remain in the course. Enrollment in the course is an agreement to abide by and accept all terms. Any student may elect to drop or withdraw from this course before the end of the drop/add period.&lt;/p&gt;
+&lt;p&gt;Online exams and quizzes within this course may require online proctoring. Therefore, students will be required to have a webcam (USB or internal) with a microphone when taking an exam or quiz. Students understand that this remote recording device is purchased and controlled by the student and that recordings from any private residence must be done with the permission of any person residing in the residence. To avoid any concerns in this regard, students should select private spaces for the testing. The University library and other academic sites at the University offer secure private settings for recordings and students with concerns may discuss location of an appropriate space for the recordings with their instructor or advisor. Students must ensure that any recordings do not invade any third party privacy rights and accept all responsibility and liability for violations of any third party privacy concerns. Setup information will be provided prior to taking the proctored exam. For additional information about online proctoring you can visit the online proctoring student FAQ &lt;a href=&#34;http://www.usf.edu/innovative-education/resources/student-services/online-proctoring.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;disability-accommodation&#34;&gt;Disability accommodation&lt;/h4&gt;
+&lt;p&gt;Information regarding qualifications for student disabilities through the Disabled Student Academic Services Office (DSA) at the University of South Florida can be found online &lt;a href=&#34;http://www.grad.usf.edu/policies_Sect4_full.php#disab&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; Students can also directly contact the DSA for arrangement of academic accommodations and assistance at (813) 974-4309, SVC 2043, Coordinator of Disabled Student Academic Services.&lt;/p&gt;
+&lt;h4 id=&#34;holidays-and-religious-observations&#34;&gt;Holidays and Religious Observations&lt;/h4&gt;
+&lt;p&gt;Students who anticipate that they will be unable to complete any aspect of this course due to the observation of a major religious observance must provide written notice to the instructor by the end of the second week of the course.&lt;/p&gt;
+&lt;h3 id=&#34;quick-access-to-online-resources&#34;&gt;Quick Access to Online Resources&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;http://abbottanalytics.blogspot.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dean Abbott&amp;rsquo;s (Author of your textbook) Analytics Blog&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://support.sas.com/documentation/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SAS Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://support.sas.com/documentation/cdl/en/webeditorref/68839/HTML/default/viewer.htm#bookinfo.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SAS Task Reference Book&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://documentation.sas.com/?cdcId=webeditorcdc&amp;amp;cdcVersion=3.6&amp;amp;docsetId=webeditorref&amp;amp;docsetTarget=titlepage.htm&amp;amp;locale=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SAS Task Reference Book&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://video.sas.com/#category/videos/sas-studio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SAS How-to Videos - For the video lovers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.sascrunchtraining.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SAS Crunch Training&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://eds.a.ebscohost.com/eds/results?sid=37efc29e-79b5-4d89-8de2-c79227b0ad98%40sessionmgr4006&amp;amp;vid=0&amp;amp;hid=4211&amp;amp;bquery=applied&amp;#43;predictive&amp;#43;analytics&amp;amp;bdata=JmNsaTA9RlQmY2x2MD1ZJmNsaTE9RlQxJmNsdjE9WSZ0eXBlPTAmc2l0ZT1lZHMtbGl2ZQ%3d%3d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Online access to your textbook through USF library&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Industrial System Simulation</title>
+      <link>https://example.com/course_desc/simulation/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/course_desc/simulation/</guid>
+      <description>&lt;h3 id=&#34;course-title&#34;&gt;Course Title&lt;/h3&gt;
+&lt;p&gt;ESI 4523 Industrial System Simulation&lt;/p&gt;
+&lt;h3 id=&#34;instructor&#34;&gt;Instructor&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Name:&lt;/em&gt; Prof. Ali Yalcin&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Phone:&lt;/em&gt; (813) 974 5590 should be used by appointment only.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;E-mail:&lt;/em&gt; &lt;a href=&#34;mailto:ayalcin@usf.edu&#34;&gt;ayalcin@usf.edu&lt;/a&gt; is the preferred form of communication. Please allow 3 business days for the instructor to respond.&lt;/p&gt;
+&lt;h4 id=&#34;office-hours&#34;&gt;Office Hours&lt;/h4&gt;
+&lt;p&gt;Integrated chat tool - by appointment&lt;/p&gt;
+&lt;p&gt;E-mail - anytime.&lt;/p&gt;
+&lt;h3 id=&#34;texbook&#34;&gt;Texbook&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Kelton, Sadowski and Swets,&lt;/em&gt; Simulation with ARENA  McGraw Hill, Sixth Edition, 2015&lt;/p&gt;
+&lt;p&gt;The course textbook is required for this course. Students may be assigned other material from online sources outside of the textbook.&lt;/p&gt;
+&lt;h3 id=&#34;course-overview&#34;&gt;Course Overview&lt;/h3&gt;
+&lt;p&gt;This course focuses on developing discrete event stochastic simulation models for a variety of systems including examples from manufacturing and service sectors. Special emphasis is placed on model verification and interpretation of simulation results.&lt;/p&gt;
+&lt;h3 id=&#34;course-objectives&#34;&gt;Course Objectives&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;To understand simulation modeling.&lt;/li&gt;
+&lt;li&gt;To learn the art and science of collecting and analyzing data for a system under study.&lt;/li&gt;
+&lt;li&gt;To learn a state-of-the-art comprehensive simulation language (ARENA) with which to develop simulation models.&lt;/li&gt;
+&lt;li&gt;To use computers to debug, run and animate simulation models.&lt;/li&gt;
+&lt;li&gt;To analyze and interpret results obtained from a simulation run.&lt;/li&gt;
+&lt;li&gt;To provide simulation examples from a variety of systems.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;arena-software-use&#34;&gt;Arena Software Use&lt;/h3&gt;
+&lt;p&gt;This course uses Arena Simulation Software. You can download and use the free version for small models up to 300 hundred entities. The full version is available from &lt;a href=&#34;https://www.usf.edu/it/apps/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;USF Apps&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;course-prerequisites&#34;&gt;Course Prerequisites&lt;/h3&gt;
+&lt;p&gt;ESI 4313 Probabilistic Operations Research&lt;/p&gt;
+&lt;h3 id=&#34;grading&#34;&gt;Grading&lt;/h3&gt;
+&lt;p&gt;This is a 3 credit hour course.&lt;/p&gt;
+&lt;p&gt;Final course grade will be determined based on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Exam 1   25%&lt;/li&gt;
+&lt;li&gt;Exam 2   35%&lt;/li&gt;
+&lt;li&gt;Exam 3   40%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Final course letter grades will be based on a percentage performance basis for the course using the following  grading scale: A 90+ , B 80-89, C 60-79, D 50-59, F 0-49.&lt;/p&gt;
+&lt;p&gt;If any of the exam’s average is below 70, each students’ score will be adjusted by adding [70-Exam Avg] points. Letter grades for the course will be determined by the weighted average of the adjusted scores using the grading scale above&lt;/p&gt;
+&lt;h3 id=&#34;course-format&#34;&gt;Course Format&lt;/h3&gt;
+&lt;p&gt;This course is offered in-class or on-line. Course materials are posted on the course website. The course is made up of 15 modules. Each module includes all or a subset of the following components.&lt;/p&gt;
+&lt;h4 id=&#34;reading-assignments&#34;&gt;Reading Assignments&lt;/h4&gt;
+&lt;p&gt;Each module has a reading assignment from your text-book and in some cases from other online resources. The reading assignments are your first and in some cases most important source of information to achieve the learning objectives of the module.&lt;/p&gt;
+&lt;h4 id=&#34;problem-solution-videos&#34;&gt;Problem Solution Videos&lt;/h4&gt;
+&lt;p&gt;These video&amp;rsquo;s from are an excellent source to see different solutions to end-of-chapter exercises.&lt;/p&gt;
+&lt;h4 id=&#34;self-guided-exercises-sg-exercises&#34;&gt;Self-Guided Exercises (SG Exercises)&lt;/h4&gt;
+&lt;p&gt;These exercises demonstrate the application of the concepts covered in the lectures. These exercises are provided in video or written format as appropriate.&lt;/p&gt;
+&lt;h3 id=&#34;who-to-contact-and-how&#34;&gt;Who to Contact and How&lt;/h3&gt;
+&lt;p&gt;For course content related questions - contact the instructor directly via email.&lt;/p&gt;
+&lt;p&gt;For Canvas related technological support, please contact the IT Help Desk at (813) 974-1222 or &lt;a href=&#34;mailto:help@usf.edu&#34;&gt;help@usf.edu&lt;/a&gt;. To resolve your issue quicker, please include the following information:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Course ID if the problem occurred within a course, example:ABC1234.001F13.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What you were trying to do when the problem occurred.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The exact wording of any error you received.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;standards-and-policies&#34;&gt;Standards and Policies&lt;/h3&gt;
+&lt;p&gt;Please ensure that you are familiar with all USF Graduate Student policies  &lt;a href=&#34;http://www.grad.usf.edu/policies_sect7_full.php#standards&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; including student responsibilities, conduct, academic integrity, grading and more.&lt;/p&gt;
+&lt;h4 id=&#34;online-exam-proctoring-with-proctorio&#34;&gt;Online Exam Proctoring with Proctorio&lt;/h4&gt;
+&lt;p&gt;All students must review the syllabus and the requirements including the online terms and video testing requirements to determine if they wish to remain in the course. Enrollment in the course is an agreement to abide by and accept all terms. Any student may elect to drop or withdraw from this course before the end of the drop/add period.&lt;/p&gt;
+&lt;p&gt;Online exams and quizzes within this course may require online proctoring. Therefore, students will be required to have a webcam (USB or internal) with a microphone when taking an exam or quiz. Students understand that this remote recording device is purchased and controlled by the student and that recordings from any private residence must be done with the permission of any person residing in the residence. To avoid any concerns in this regard, students should select private spaces for the testing. The University library and other academic sites at the University offer secure private settings for recordings and students with concerns may discuss location of an appropriate space for the recordings with their instructor or advisor. Students must ensure that any recordings do not invade any third party privacy rights and accept all responsibility and liability for violations of any third party privacy concerns. Setup information will be provided prior to taking the proctored exam. For additional information about online proctoring you can visit the online proctoring student FAQ &lt;a href=&#34;http://www.usf.edu/innovative-education/resources/student-services/online-proctoring.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;disability-accommodation&#34;&gt;Disability accommodation&lt;/h4&gt;
+&lt;p&gt;Information regarding qualifications for student disabilities through the Disabled Student Academic Services Office (DSA) at the University of South Florida can be found online &lt;a href=&#34;http://www.grad.usf.edu/policies_Sect4_full.php#disab&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; Students can also directly contact the DSA for arrangement of academic accommodations and assistance at (813) 974-4309, SVC 2043, Coordinator of Disabled Student Academic Services.&lt;/p&gt;
+&lt;h4 id=&#34;holidays-and-religious-observations&#34;&gt;Holidays and Religious Observations&lt;/h4&gt;
+&lt;p&gt;Students who anticipate that they will be unable to complete any aspect of this course due to the observation of a major religious observance must provide written notice to the instructor by the end of the second week of the course.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research | Ali Yalcin</title>
+    <link>https://example.com/tag/research/</link>
+      <atom:link href="https://example.com/tag/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Research</title>
+      <link>https://example.com/tag/research/</link>
+    </image>
+    
+    <item>
+      <title>CREATE Health Research Collaborative</title>
+      <link>https://example.com/project/createhealth/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/createhealth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Numerical Methods Guy</title>
+      <link>https://example.com/project/numericalmethods/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/numericalmethods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HomeSense - Smart Sensing for Better Health at Home</title>
+      <link>https://example.com/project/homesense/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/homesense/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.usf.edu/engineering/create-health/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The University of South Florida’s Collaborative for Research &amp;amp; Education in Aging and Technology and Health’s (CREATE Health)&lt;/a&gt; mission is to harness the power of modern technology to improve health and quality of life. We partner with entrepreneurs and communities to innovate health systems and to design, deploy and evaluate innovative technology solutions designed to improve safety, security and quality of life for our aging population.In the past four years, we have developed and deployed unobtrusive wireless sensor systems(HomeSense)in the homes of approximately 20 older adults and have been collecting data on their activities of daily living. These activities include a range of behaviors known to signal health changes or influence health outcomes; such as sedentary lifestyle, medication and care plan compliance, sleep/wake patterns, daily routine, general health, nutrition, hygiene, social connection, and toileting.&lt;/p&gt;
+&lt;p&gt;The goal of HomeSense is to allow seniors to age in place safely and independently, and implement a proactive approach to their healthcare; significantly improving health outcomes, minimizing costly care episodes and reducing caregiver burden. HomeSense is built on a secure, scalable and modular system architecture supporting seamless expansion and integration flexibility. Raspberry Pis acting as local gateways in each house send data collected from the wireless network to a central server via the Internet using a lightweight M2M/IoT communication protocol. The incoming data is processed and stored in a central database to support retrospective data analysis and visualization.&lt;/p&gt;
+&lt;p&gt;HomeSense offers a number of services for older adults and their formal and informal caregivers. Daily activity visualizations allows viewing of the occupants activities in real-time. Activity history and summary facilitates identification and exploration of changes in behavioral trends and ADL patterns over days, weeks and months.Real-time notifications alert designated individuals and/or agencies of behaviors that might signal adverse health events (i.e. missed medications)or potential emergencies (i.e. in bathroom too long, late night exit seeking,failure to rise) online and via email so that prevention and intervention strategies can be implemented early to improve health, decrease risk for costly institutional and/or hospital care,and to facilitate continued independence long term.&lt;/p&gt;
+&lt;p&gt;For questions regarding CREATE Health or HomesSense please contact Dr. Carla Vandeweerd or Dr. Ali Yalcin&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

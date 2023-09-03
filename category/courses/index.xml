@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses | Ali Yalcin</title>
+    <link>https://example.com/category/courses/</link>
+      <atom:link href="https://example.com/category/courses/index.xml" rel="self" type="application/rss+xml" />
+    <description>Courses</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Courses</title>
+      <link>https://example.com/category/courses/</link>
+    </image>
+    
+    <item>
+      <title>Healthcare Data Mining and Predictive Analytics Course in the Spotlight</title>
+      <link>https://example.com/post/predictive-analytics-sportlight/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/predictive-analytics-sportlight/</guid>
+      <description>&lt;p&gt;Healthcare Data Mining and Predictive Analytics is part of the Medical Sciences Master’s concentration in Health Analytics that provides a valuable opportunity for students to gain a deeper understanding of data mining and predictive analytics as applied to modern healthcare research enterprise and delivery. It is intended to give healthcare professionals an introductory understanding of the fields of data mining and predictive analytics. While the basic concepts apply in other business applications, the course mainly uses data sets that emphasize applications in health care. The concepts introduced in the course are accompanied by hands-on data analytics exercises using SAS.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.usfhealthonline.com/resources/education/course-spotlight-healthcare-data-mining-and-predictive-analytics/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the new course spotlight article&lt;/a&gt; from &lt;a href=&#34;https://www.bisk.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bisk&lt;/a&gt;. Many thanks to &lt;a href=&#34;https://www.linkedin.com/in/david-j-rice13&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Rice&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

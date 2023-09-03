@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aging in place | Ali Yalcin</title>
+    <link>https://example.com/tag/aging-in-place/</link>
+      <atom:link href="https://example.com/tag/aging-in-place/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aging in place</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Aging in place</title>
+      <link>https://example.com/tag/aging-in-place/</link>
+    </image>
+    
+    <item>
+      <title>HomeSense: Aging in Place</title>
+      <link>https://example.com/post/aging-in-place/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/aging-in-place/</guid>
+      <description>&lt;p&gt;Homesense is an ambient sensor system designed to allow seniors to age in place safely and independently, and implement a proactive approach to their healthcare; significantly improving health outcomes, minimizing costly care episodes and reducing caregiver burden. &lt;a href=&#34;https://www.usfhealthonline.com/resources/usf/the-health-it-beat-episode-1-homesense/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen to our podcast&lt;/a&gt; where we discuss the current state and future of our flagship project HomeSense. Also hear from our research participants about the system and its benefits.&lt;/p&gt;
+&lt;p&gt;The podcast is also &lt;a href=&#34;https://open.spotify.com/show/3lTMn2bxr1uSMrx1zWaWbK?si=5nrOog-8TSym4HViOC-nEA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;available at Spotify&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Many thanks to &lt;a href=&#34;https://www.linkedin.com/in/david-j-rice13&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Rice&lt;/a&gt; at &lt;a href=&#34;https://www.bisk.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bisk&lt;/a&gt; for making all of this happen.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
